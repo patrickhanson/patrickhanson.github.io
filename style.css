@@ -1,0 +1,22 @@
+body
+    {
+        background-color: lightblue;
+        display: flex;
+        flex-direction: column;
+    }
+aside
+    {
+        align-self: flex-end;
+        margin: 20px;
+        padding: 10px;
+        border: solid 2px black;
+        background-color: lightgray;
+    }
+#intro
+    {
+        text-align: center
+    }
+h2
+    {
+        text-decoration: underline dashed;
+    }
